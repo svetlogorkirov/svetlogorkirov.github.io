@@ -4,8 +4,8 @@
 
 ### Data Viz
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bulgaria Car Market - Trend Analysis](https://public.tableau.com/app/profile/svetlogorkirov/viz/NewRegCarsComparisonDashboard2020-2021/NewRegCarsComparisonDashboard)
+<img src="images/carmarket-placeholder.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
