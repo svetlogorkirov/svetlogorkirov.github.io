@@ -6,7 +6,9 @@
 
 ### Bulgaria Car Market - Trend Analysis
 [![Open Web App](https://img.shields.io/badge/tableau%20public-Vizzes-orange?logo=Tableau)](https://public.tableau.com/app/profile/svetlogorkirov/viz/NewRegCarsComparisonDashboard2020-2021/NewRegCarsComparisonDashboard)
-<img src="images/carmarket-placeholder.jpg?raw=true"/>
+<br>
+<center><img src="images/carmarket-placeholder.jpg?raw=true"/></center>
+<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
