@@ -2,9 +2,10 @@
 
 ---
 
-### Data Viz
+## Data Viz
 
-[Bulgaria Car Market - Trend Analysis](https://public.tableau.com/app/profile/svetlogorkirov/viz/NewRegCarsComparisonDashboard2020-2021/NewRegCarsComparisonDashboard)
+### Bulgaria Car Market - Trend Analysis
+[![Open Web App](https://img.shields.io/badge/tableau%20public-Vizzes-orange?logo=Tableau)](https://public.tableau.com/app/profile/svetlogorkirov/viz/NewRegCarsComparisonDashboard2020-2021/NewRegCarsComparisonDashboard)
 <img src="images/carmarket-placeholder.jpg?raw=true"/>
 
 ---
@@ -17,7 +18,7 @@
 
 ---
 
-### Data Models
+## Data Models
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -25,7 +26,7 @@
 
 ---
 
-### Data Science
+## Data Science
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
