@@ -2,7 +2,7 @@
 
 ---
 
-## Data Viz
+## Data Analysis
 
 ### Bulgaria Car Market - Trend Analysis
 [![Open Web App](https://img.shields.io/badge/tableau%20public-Vizzes-orange?logo=Tableau)](https://public.tableau.com/app/profile/svetlogorkirov/viz/NewRegCarsComparisonDashboard2020-2021/NewRegCarsComparisonDashboard)
@@ -20,7 +20,7 @@
 
 ---
 
-## Data Models
+## Data Viz
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -28,7 +28,34 @@
 
 ---
 
-## Data Science
+## Machine Learning
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+
+
+---
+
+## Natural Language Processing
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+
+
+---
+
+## Neural Nets and Deep Learning
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+
+
+---
+
+## Big Data and Spark
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
