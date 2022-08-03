@@ -11,7 +11,7 @@
 <br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Bulgarian Register of Populated Places (EKATTE) - Administrative Units, Postcodes, GeoData
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
