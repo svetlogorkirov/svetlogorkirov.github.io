@@ -12,7 +12,7 @@
 
 ---
 ### Bulgarian Register of Populated Places (EKATTE) - Administrative Units, Postcodes, GeoData
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AdmUnits_4Level.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
