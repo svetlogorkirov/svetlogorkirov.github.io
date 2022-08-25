@@ -4,63 +4,37 @@
 
 ## Data Analysis
 
-### Bulgaria Car Market - Trend Analysis
+### Project 1 - The Bulgarian Car Market
 [![Open Web App](https://img.shields.io/badge/tableau%20public-Vizzes-orange?logo=Tableau)](https://public.tableau.com/app/profile/svetlogorkirov/viz/NewRegCarsComparisonDashboard2020-2021/NewRegCarsComparisonDashboard)
 <br>
 <center><img src="images/carmarket-placeholder.jpg?raw=true"/></center>
 <br>
 
 ---
-### Bulgarian Register of Populated Places (EKATTE) - Administrative Units, Postcodes, GeoData
+### Project 2 - The Bulgarian Register of Populated Places (EKATTE) 
 <img src="images/AdmUnits_4Level.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+###  Project 3 - The Bulgarian National Volleyball League
 
 ---
 
 ## Data Viz
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+### Project 1 - The Bulgarian Car Market
+[![Open Web App](https://img.shields.io/badge/tableau%20public-Vizzes-orange?logo=Tableau)](https://public.tableau.com/app/profile/svetlogorkirov/viz/NewRegCarsComparisonDashboard2020-2021/NewRegCarsComparisonDashboard)
+<br>
+<center><img src="images/carmarket-placeholder.jpg?raw=true"/></center>
+<br>
 
 ---
-
-## Machine Learning
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-
+### Project 2 - The Bulgarian Register of Populated Places (EKATTE) 
+<img src="images/AdmUnits_4Level.jpg?raw=true"/>
 
 ---
-
-## Natural Language Processing
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-
+###  Project 3 - The Bulgarian National Volleyball League
 
 ---
-
-## Neural Nets and Deep Learning
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-
-
----
-
-## Big Data and Spark
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
