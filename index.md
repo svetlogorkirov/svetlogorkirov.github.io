@@ -11,6 +11,7 @@
 <center><img src="images/TableauVizzes_20230808.jpg?raw=true"/></center>
 <br>
 Source: [data.egov.bg](https://data.egov.bg/)
+<br>
 ---
 ## Data Analytics
 ---
